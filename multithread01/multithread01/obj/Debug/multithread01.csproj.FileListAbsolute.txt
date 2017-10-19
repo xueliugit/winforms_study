@@ -1,0 +1,9 @@
+c:\users\liuxue\documents\visual studio 2015\Projects\multithread01\multithread01\bin\Debug\multithread01.exe.config
+c:\users\liuxue\documents\visual studio 2015\Projects\multithread01\multithread01\bin\Debug\multithread01.exe
+c:\users\liuxue\documents\visual studio 2015\Projects\multithread01\multithread01\bin\Debug\multithread01.pdb
+c:\users\liuxue\documents\visual studio 2015\Projects\multithread01\multithread01\obj\Debug\multithread01.csprojResolveAssemblyReference.cache
+c:\users\liuxue\documents\visual studio 2015\Projects\multithread01\multithread01\obj\Debug\multithread01.Form1.resources
+c:\users\liuxue\documents\visual studio 2015\Projects\multithread01\multithread01\obj\Debug\multithread01.Properties.Resources.resources
+c:\users\liuxue\documents\visual studio 2015\Projects\multithread01\multithread01\obj\Debug\multithread01.csproj.GenerateResource.Cache
+c:\users\liuxue\documents\visual studio 2015\Projects\multithread01\multithread01\obj\Debug\multithread01.exe
+c:\users\liuxue\documents\visual studio 2015\Projects\multithread01\multithread01\obj\Debug\multithread01.pdb
